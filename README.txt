@@ -10,14 +10,13 @@ Pour utiliser le raccourci rapide ("Amazon Smart Research"), le chemin inscrit d
 script_execution_partie_3.bat doit être modifié en fonction de l'installation Python de l'utilisateur.
 
 Dossiers et fichiers -------------------------------------------------------------------------
-Scripts/partie_1_notebook.ipynb : notebook de la partie 1
-Scripts/partie_2_main.py : programme main de la partie 2
-Scripts/partie_2_fonctions.py  : fonctions utilisées dans la partie 3
-Scripts/partie_3_main.py : programme main de la partie 3
-Scripts/partie_3_fonctions.py  : fonctions utilisées dans la partie 2
+Scripts/partie_1_notebook.ipynb : notebook consacré à la partie descriptive de la base et de sa visualisation
+Scripts/partie_2_main.py : programme main où l'on rentre les caractéristiques des produits recherchés
+Scripts/partie_2_fonctions.py  : fonctions utilisées dans la partie 2 main
+Scripts/partie_3_main.py : programme main où l'interface Tkinter est créée et lance la fonction de recherche
+Scripts/partie_3_fonctions.py  : fonctions utilisées dans la partie 3 main
 Scripts/Amazon Smart Research : Raccourci rapide pour lancer le programme de la partie 3
 Scripts/script_execution_partie_3.bat : script format .bat de lancement du programme de la partie 3
 Scripts/script_execution_partie_3.txt : script format .txt de lancement du programme de la partie 3
 Data/raw : données de base
-Data/out : données modifiées
-
+Data/out : données modifiées 
